@@ -21,6 +21,12 @@ This repository contains projects completed while learning through the freeCodeC
 - Uses lambda, map(), and filter()
 - Interactive command-line interface
 
+### 4. Luhn Algorithm Card Validator
+- Validate card numbers using the Luhn Algorithm
+- Supports formatted card inputs
+- Uses digit manipulation and checksum logic
+- Interactive command-line program 
+
 More projects will be added as I continue the course.
 
 ## Upcoming Projects
