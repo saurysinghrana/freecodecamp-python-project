@@ -9,6 +9,12 @@ This repository contains projects completed while learning through the freeCodeC
 - Multi-file modular structure
 - Interactive terminal program
 
+### 2. Square Root Finder using Bisection Method
+- Find square roots using numerical approximation
+- Binary search based algorithm
+- Modular Python structure
+- User-driven terminal interaction
+
 More projects will be added as I continue the course.
 
 ## Upcoming Projects
