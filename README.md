@@ -15,6 +15,12 @@ This repository contains projects completed while learning through the freeCodeC
 - Modular Python structure
 - User-driven terminal interaction
 
+### 3. Expense Tracker
+- Track and manage expenses
+- Filter expenses by category
+- Uses lambda, map(), and filter()
+- Interactive command-line interface
+
 More projects will be added as I continue the course.
 
 ## Upcoming Projects
